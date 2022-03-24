@@ -1,5 +1,6 @@
-<h1 align="center">Maps e Sets - Atividade Prática</h1> 
-Atividade prática sobre Coleções Chaveadas
+<h1 align="center">Maps e Sets - Atividade Prática</h1>
+
+<h3 align="center">Coleções Chaveadas</3>
 
 ## Objetivos da Atividade 1: Maps
 > Crie uma função getAdmins que recebe um Map;
